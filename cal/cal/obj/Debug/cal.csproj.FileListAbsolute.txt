@@ -1,0 +1,10 @@
+F:\WorkSpace\VS\cal\cal\bin\Debug\cal.exe.config
+F:\WorkSpace\VS\cal\cal\bin\Debug\cal.exe
+F:\WorkSpace\VS\cal\cal\bin\Debug\cal.pdb
+F:\WorkSpace\VS\cal\cal\obj\Debug\cal.csprojAssemblyReference.cache
+F:\WorkSpace\VS\cal\cal\obj\Debug\cal.Form1.resources
+F:\WorkSpace\VS\cal\cal\obj\Debug\cal.Properties.Resources.resources
+F:\WorkSpace\VS\cal\cal\obj\Debug\cal.csproj.GenerateResource.cache
+F:\WorkSpace\VS\cal\cal\obj\Debug\cal.csproj.CoreCompileInputs.cache
+F:\WorkSpace\VS\cal\cal\obj\Debug\cal.exe
+F:\WorkSpace\VS\cal\cal\obj\Debug\cal.pdb
