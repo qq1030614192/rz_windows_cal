@@ -1,0 +1,7 @@
+LIBRARY "Dll1"
+
+EXPORTS
+ add @ 1
+ subtract @ 2
+ multiply @ 3
+ divide @ 4
